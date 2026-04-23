@@ -1,7 +1,3 @@
-Here is a professional and complete README.md file for your GitHub repository.
-It includes the required "short explanation" from your lab instructions (Page 3)
-to help you get those extra points.
-
 Student Identity Cipher (Web Dev Lab Exam)
 
 A web-based implementation of the Caesar Cipher designed to encrypt and decrypt
